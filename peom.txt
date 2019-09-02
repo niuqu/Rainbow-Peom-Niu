@@ -3,5 +3,6 @@ the rainbow
 seven colors
 red
 orange
+green
 purple
 this is the rainbow.
