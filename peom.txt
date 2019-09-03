@@ -7,5 +7,7 @@ ellow
 green
 unicorn
 purple
+local
+happy
 this is the rainbow.
 and the unicorn.
